@@ -1,0 +1,16 @@
+# Ignore system / temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignore IDE folders
+.vscode/
+.idea/
+__pycache__/
+venv/
+
+# Ignore Packet Tracer autosaves
+*.autosave
+*.bak
